@@ -407,11 +407,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Jayesh Gulani**
-- GitHub: [@jayesh55555](https://github.com/jayesh55555)
-- Email: gulanijayesh55@gmail.com
+**Bhavesh Harchandani**
+- GitHub: https://github.com/bhavesh-harchandani
+- Email: bhaveshharchandani636@gmail.com
 
-**Project Link**: [https://github.com/jayesh55555/SkillSprint-AI](https://github.com/jayesh55555/SkillSprint-AI)
+**Project Link**: https://github.com/bhavesh-harchandani/Skill-sprint-AI
 
 ---
 
